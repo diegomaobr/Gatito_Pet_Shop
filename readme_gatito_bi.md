@@ -1,5 +1,8 @@
 # Power BI Report Project
 
+<img width="1433" height="803" alt="BI_Dashboard_Gatitos" src="https://github.com/user-attachments/assets/3e13ed2c-a635-44a4-95f8-a2437619d1f9" />
+
+
 Este repositório contém a estrutura descompactada de um relatório e painel interativo do **Power BI**, incluindo seu modelo de dados (`DataModel`), layouts de página e visuais customizados (*Custom Visuals*).
 
 ---
